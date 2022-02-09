@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanga Mariappan</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">I am a Front-end Developer.I like to code things from scratch, I like dabbling in various parts of frontend development and like to learn about new technologies, read technical articles or simply play games in my free time.</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="thangamariappan19" /></p>
+<p><img align="right" src="https://github.com/thangamariappan19/thangamariappan19/blob/main/animation.gif" alt="thangamariappan19" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -60,7 +60,7 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=thangamariappan19&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="thangamariappan19" 
     bg_color=#808080/></p>
 
 <br>
@@ -68,13 +68,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangamariappan19&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
-<br>
-
-
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
-      
+<br>      
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
