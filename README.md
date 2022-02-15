@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/thangamariappan19/thangamariappan19/blob/main/animation.gif" alt="thangamariappan19" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Advanced Web Development and other programming languages
 
 - 📫 How to reach me **thangamariappancse@gmail.com**
 
