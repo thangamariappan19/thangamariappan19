@@ -49,7 +49,7 @@ Highlights:
 ## 🛠 Core Technologies
 
 **Frontend**
-- Angular (13–19), TypeScript  
+- Angular, TypeScript  
 - RxJS, NgRx  
 - HTML5, CSS3, SCSS  
 
