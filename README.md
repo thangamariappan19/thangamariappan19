@@ -21,11 +21,11 @@
 
 ## 👨‍💻 About Me
 
-- Frontend Developer with strong focus on **scalable, maintainable UI**
-- Experienced in **Angular & React ecosystems**
-- Enjoys building things **from scratch**, optimizing performance, and clean UX
-- Curious learner of **modern web architecture**
-- Outside work: **Food 🍴 | Music 🎵 | Cricket 🏏**
+- Frontend Developer focused on **scalable & maintainable UI**
+- Strong experience with **Angular & React**
+- Enjoys building features **from scratch**
+- Interested in **modern frontend architecture**
+- Outside work: Food 🍴 | Music 🎵 | Cricket 🏏
 
 ---
 
@@ -51,30 +51,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thangamariappan19&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangamariappan19&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 What I’m Learning Now
+## 🚀 Currently Learning
 - Advanced Angular patterns
-- Performance optimization
-- Clean architecture for frontend apps
+- Frontend performance optimization
+- Clean architecture for large-scale UI
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/thanga-mariappan-p/
 - Twitter: https://twitter.com/iamthangam
 - Email: **thangamariappancse@gmail.com**
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+⭐ *Thanks for visiting my profile!*
