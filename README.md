@@ -1,106 +1,92 @@
-<h1 align="center">Hi 👋 I'm Thanga Mariappan</h1>
+<h1 align="center">Thanga Mariappan</h1>
 <h3 align="center">
-Technology Lead | Full Stack Developer (Angular & Node.js) | Enterprise Web & E-commerce
+Senior Frontend Engineer | Angular • Spartacus • Enterprise E-Commerce • Performance
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanga-mariappan-p/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
-  </a>
-  <a href="mailto:thangamariappancse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
-  </a>
+Building production-grade Angular applications for large-scale enterprise platforms.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thangamariappan19&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/thanga-mariappan-p/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a>
+  <a href="mailto:thangamariappancse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 What I Do
 
-- **Full Stack Developer with 9+ years of experience** building enterprise-scale web applications
-- Strong expertise in **Angular (8–19), TypeScript, Node.js**
-- Specialized in **e-commerce platforms (Spartacus)** and large-scale frontend architecture
-- Proven track record in **performance optimization, migrations, and scalable design**
-- Experience leading teams, mentoring developers, and driving **Agile delivery**
-- Focused on clean code, maintainability, and production stability
+I design and build **high-performance Angular applications** for **enterprise e-commerce platforms** used by thousands of users.
+
+My work focuses on:
+- Scalable Angular architecture  
+- Spartacus storefronts  
+- SSR & performance optimisation  
+- CMS-driven commerce (Magnolia, GraphQL)  
+- Zero-downtime enterprise deployments  
 
 ---
 
-## 🛠 Technical Skills
+## 🏢 Real-World Experience
 
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
+I’ve delivered and maintained production systems for global clients in:
+- **E-commerce**
+- **Manufacturing**
+- **Agriculture & Energy**
 
-### Backend & APIs
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-</p>
+Highlights:
+- Reduced checkout drop-offs by **20%** by improving UX and performance  
+- Migrated enterprise apps from **Angular 8 → 13+** improving stability and maintainability  
+- Maintained **99%+ uptime** across DEV, QA, UAT and PROD  
+- Built Spartacus storefronts integrated with **GraphQL & Magnolia CMS**
 
-- REST APIs  
-- GraphQL  
+---
 
-### Platforms & CMS
+## 🛠 Core Technologies
+
+**Frontend**
+- Angular (13–19), TypeScript  
+- RxJS, NgRx  
+- HTML5, CSS3, SCSS  
+
+**Enterprise Platforms**
 - SAP Spartacus  
 - Magnolia CMS  
+- GraphQL & REST APIs  
 
-### DevOps & Cloud
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
-
-- CI/CD Pipelines  
-- Multi-environment deployments (DEV / QA / UAT / PROD)
-
-### Testing & Quality
-- Karma  
-- Jasmine  
-- SonarCloud  
-
-### Methodologies
-- Agile / Scrum  
-- End-to-end ownership  
-- Code reviews & mentoring  
+**DevOps & Quality**
+- Git, Azure DevOps  
+- Docker, CI/CD  
+- Karma, Jasmine, SonarCloud  
 
 ---
 
-## 🏢 Professional Highlights
+## 📂 Featured Projects
 
-- Led **Spartacus-based e-commerce platforms** serving 100K+ users
-- Improved API performance by **25–35%**
-- Reduced frontend load time by **30–45%**
-- Migrated large applications from **Angular 8 → 13+**
-- Delivered **zero-downtime releases** across environments
-- Mentored junior developers and enforced Angular best practices
-- Maintained **99.5% release success rate**
+These repositories demonstrate how I build **enterprise-grade Angular systems**.
 
----
+👉 **Enterprise E-Commerce (Spartacus-style)**  
+Angular SSR storefront with auth, product catalogue, cart, checkout and CMS-driven pages.
 
-## 🚀 Currently Focusing On
+👉 **SaaS Job Tracker**  
+A full-stack Angular app to track job applications with dashboards, analytics and auth.
 
-- Advanced Angular architecture patterns
-- Frontend performance optimization
-- Scalable enterprise UI design
-- Clean, maintainable codebases
+👉 **Angular Performance Lab**  
+Benchmarks SSR vs CSR, lazy loading, bundle sizes and Web Vitals.
+
+(Links coming — these are the projects we will build next.)
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/thanga-mariappan-p/
-- Email: **thangamariappancse@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/thanga-mariappan-p/  
+- Email: thangamariappancse@gmail.com  
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile*
+If you are looking for someone who can **design, build and ship enterprise Angular systems**, you’re in the right place.
