@@ -16,7 +16,7 @@
 <!-- PROFILE BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/thanga-mariappan-p/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:thangamariappancse@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=thanga-mariappan&style=for-the-badge&color=00f5ff&labelColor=0a0a0a&label=PROFILE+VIEWS)](https://github.com/thanga-mariappan)
+[![Profile Views](https://komarev.com/ghpvc/?username=thangamariappan19&style=for-the-badge&color=00f5ff&labelColor=0a0a0a&label=PROFILE+VIEWS)](https://github.com/thangamariappan19)
 
 </div>
 
@@ -107,17 +107,17 @@ const thanga: Engineer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanga-mariappan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&text_color=c0c0c0&icon_color=a78bfa&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thangamariappan19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&text_color=c0c0c0&icon_color=a78bfa&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanga-mariappan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&text_color=c0c0c0&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangamariappan19&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&text_color=c0c0c0&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanga-mariappan&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=00f5ff&ring=a78bfa&fire=ff6b6b&currStreakNum=00f5ff&sideNums=c0c0c0&currStreakLabel=a78bfa&sideLabels=c0c0c0&dates=888888" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thangamariappan19&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=00f5ff&ring=a78bfa&fire=ff6b6b&currStreakNum=00f5ff&sideNums=c0c0c0&currStreakLabel=a78bfa&sideLabels=c0c0c0&dates=888888" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanga-mariappan&bg_color=0d0d1a&color=00f5ff&line=a78bfa&point=ff6b6b&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thangamariappan19&bg_color=0d0d1a&color=00f5ff&line=a78bfa&point=ff6b6b&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -131,7 +131,7 @@ const thanga: Engineer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thanga-mariappan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thangamariappan19&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
@@ -164,9 +164,9 @@ const thanga: Engineer = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanga-mariappan/thanga-mariappan/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanga-mariappan/thanga-mariappan/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/thanga-mariappan/thanga-mariappan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangamariappan19/thangamariappan19/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thangamariappan19/thangamariappan19/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/thangamariappan19/thangamariappan19/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -203,7 +203,7 @@ const thanga: Engineer = {
 
 ```bash
 # Clone & install
-git clone https://github.com/thanga-mariappan/techsheet.git
+git clone https://github.com/thangamariappan19/techsheet.git
 cd techsheet
 npm install
 
@@ -234,7 +234,7 @@ To publish a post, drop a `.md` file into the `content/` folder following the st
 
 <br/>
 
-[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20repo-if%20you%20found%20it%20useful!-FFD700?style=for-the-badge)](https://github.com/thanga-mariappan/techsheet)
+[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20repo-if%20you%20found%20it%20useful!-FFD700?style=for-the-badge)](https://github.com/thangamariappan19/techsheet)
 
 <br/>
 
